@@ -1,4 +1,7 @@
-﻿A(a)
-A(Ba)
-B(b)
-baa
+﻿E(E+T)
+E(T)
+T(T*F)
+T(F)
+F((E))
+F(i)
+i+i*i
